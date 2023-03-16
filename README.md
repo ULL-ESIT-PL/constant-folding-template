@@ -1,6 +1,3 @@
-[![npm version](https://badge.fury.io/js/%40aluXXX%2Fconstant-folding.svg)](https://badge.fury.io/js/%40aluXXX%2Fconstant-folding)
-[![CI for constant-folding](https://github.com/ULL-ESIT-PL-2021/constant-folding-module-aluXXX/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ULL-ESIT-PL-2021/constant-folding-module-aluXXX/actions/workflows/nodejs.yml)
-
 ## constant-folding
 
 ## Installation
